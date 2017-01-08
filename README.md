@@ -5,7 +5,7 @@ Hosted on github pages: https://eetee.github.io/supreme-locations/
 
 - Single page site which uses browser's location to identify current location
 - Uses list of cafes found here: http://www.easymapmaker.com/map/CSLcafelocations
-- Uses lat/lon co-ordinates to determine approximate distance (as the crow flies)
+- Uses lat/lon co-ordinates to determine approximate distance ([as the crow flies](https://en.wikipedia.org/wiki/As_the_crow_flies) - good enough for determining relative order)
 - Displays list of cafes ordered by distance
 - Displays cafe's map (using Google Map API) ~ clicking on directions works as well
 
