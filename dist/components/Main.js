@@ -2,6 +2,7 @@
 const React = require("react");
 const CurrentLocationContainer_1 = require("../containers/CurrentLocationContainer");
 const StoreListContainer_1 = require("../containers/StoreListContainer");
+const CurrentTimestamp_1 = require("./CurrentTimestamp");
 class Main extends React.Component {
     constructor(props, state) {
         super();
@@ -19,6 +20,7 @@ class Main extends React.Component {
                         React.createElement("p", null, "Disclaimer: I have no affiliation to the roaster, they have neither commissioned this nor is there any endorsement."))),
                 React.createElement("div", { className: "row" },
                     React.createElement("div", { className: "col-lg-8 col-lg-offset-2 col-xs-12 col-sm-12 col-md-12" },
+                        React.createElement(CurrentTimestamp_1.CurrentTimestamp, null),
                         React.createElement(CurrentLocationContainer_1.CurrentLocationContainer, null),
                         React.createElement(StoreListContainer_1.StoreListContainer, null))))));
     }

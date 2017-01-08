@@ -2,6 +2,7 @@ import * as React from 'react';
 
 import {CurrentLocationContainer} from '../containers/CurrentLocationContainer';
 import {StoreListContainer} from '../containers/StoreListContainer';
+import {CurrentTimestamp} from './CurrentTimestamp';
 
 interface IProps {}
 
@@ -32,6 +33,7 @@ export class Main extends React.Component <IProps, IState> {
 
           <div className="row">
             <div className="col-lg-8 col-lg-offset-2 col-xs-12 col-sm-12 col-md-12">
+              <CurrentTimestamp />
               <CurrentLocationContainer />
               <StoreListContainer />
             </div>

@@ -1,19 +1,9 @@
 "use strict";
-const locations_1 = require("../data/locations");
+const storeLocations = require('../data/supreme');
 const actions_1 = require("../actions/actions");
 const redux_1 = require("redux");
 exports.initialState = {
-    locations: locations_1.locations.map((location) => {
-        return {
-            name: location[1],
-            address: location[0],
-            type: location[2],
-            longitude: parseFloat(location[4]),
-            latitude: parseFloat(location[3]),
-            position: location[5],
-            distance: 0
-        };
-    }),
+    locations: storeLocations,
     currentLocation: {
         longitude: 123,
         latitude: 456

@@ -1,5 +1,7 @@
 "use strict";
 const React = require("react");
+const HoursDisplay_1 = require("./HoursDisplay");
+const round = require("lodash/round");
 class Store extends React.Component {
     constructor(props, state) {
         super(props);
@@ -13,6 +15,7 @@ class Store extends React.Component {
         const iframeStyle = {
             'border': '0'
         };
+        const displayHours = !!this.props.store.hours.sun;
         let mapUrl = '';
         if (this.props.store.latitude !== 0) {
             mapUrl = `https://www.google.com/maps/embed/v1/place?q=${this.props.store.latitude}%2C%20${this.props.store.longitude}&key=AIzaSyBfQiuNkny6qftAKK3ZxRexheF6YPke0v0`;
@@ -25,17 +28,16 @@ class Store extends React.Component {
                 React.createElement("div", { className: "row" },
                     React.createElement("div", { className: "col-lg-4 col-md-6 col-sm-6 col-xs-6" }, "Address:"),
                     React.createElement("div", { className: "col-lg-8 col-md-6 col-sm-6 col-xs-6" }, this.props.store.address)),
-                React.createElement("div", { className: "row" },
-                    React.createElement("div", { className: "col-lg-4 col-md-6 col-sm-6 col-xs-6" }, "Co-ordinates:"),
-                    React.createElement("div", { className: "col-lg-8 col-md-6 col-sm-6 col-xs-6" },
-                        this.props.store.latitude,
-                        ", ",
-                        this.props.store.longitude)),
+                displayHours && React.createElement(HoursDisplay_1.HoursDisplay, { hours: this.props.store.hours }),
                 React.createElement("div", { className: "row" },
                     React.createElement("div", { className: "col-lg-4 col-md-6 col-sm-6 col-xs-6" }, "Distance"),
                     React.createElement("div", { className: "col-lg-8 col-md-6 col-sm-6 col-xs-6" },
-                        this.props.store.distance,
-                        "kms")),
+                        round(this.props.store.distance, 1),
+                        "kms (",
+                        this.props.store.latitude,
+                        ", ",
+                        this.props.store.longitude,
+                        ")")),
                 React.createElement("div", { className: "row" },
                     React.createElement("div", { className: "col-lg-8 col-lg-offset-4 col-xs-12 text-center" },
                         React.createElement("iframe", { width: "600", height: "450", frameBorder: "0", style: iframeStyle, src: mapUrl }))))));

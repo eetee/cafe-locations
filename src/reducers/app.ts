@@ -1,6 +1,18 @@
-import {locations as storeLocations} from '../data/locations';
+const storeLocations = require('../data/supreme');
 import {actions} from '../actions/actions';
 import { combineReducers } from 'redux';
+
+export interface CafeHours {
+  // array of start and end time arrays
+  // e.g. sun: [['0900', '1300'], ['1900', '2359']]
+  sun: string[][],
+  mon: string[][],
+  tue: string[][],
+  wed: string[][],
+  thu: string[][],
+  fri: string[][],
+  sat: string[][],
+}
 
 export interface CafeLocation {
   name: string;
@@ -10,6 +22,7 @@ export interface CafeLocation {
   latitude: number;
   position: string;
   distance: number;
+  hours: CafeHours
 }
 
 export interface IState {
@@ -21,17 +34,7 @@ export interface IState {
 }
 
 export const initialState:IState = {
-  locations: storeLocations.map((location)=>{
-    return {
-      name: location[1],
-      address: location[0],
-      type: location[2],
-      longitude: parseFloat(location[4]),
-      latitude: parseFloat(location[3]),
-      position: location[5],
-      distance: 0
-    }
-  }),
+  locations: storeLocations,
   currentLocation: {
     longitude: 123,
     latitude: 456

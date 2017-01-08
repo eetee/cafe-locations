@@ -1,5 +1,7 @@
 import * as React from 'react';
 import {CafeLocation} from '../reducers/app';
+import {HoursDisplay} from './HoursDisplay';
+import * as round from 'lodash/round';
 
 interface IProps {
   store: CafeLocation
@@ -12,7 +14,6 @@ export class Store extends React.Component <IProps, IState> {
     super(props);
   }
 
-
   render(){
     const blockStyle = {
       'margin': '10px 0px',
@@ -23,6 +24,8 @@ export class Store extends React.Component <IProps, IState> {
     const iframeStyle = {
       'border': '0'
     };
+
+    const displayHours = !!this.props.store.hours.sun;
 
     let mapUrl = '';
 
@@ -52,21 +55,14 @@ export class Store extends React.Component <IProps, IState> {
             </div>
           </div>
 
-          <div className="row">
-            <div className="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-              Co-ordinates:
-            </div>
-            <div className="col-lg-8 col-md-6 col-sm-6 col-xs-6">
-              {this.props.store.latitude}, {this.props.store.longitude}
-            </div>
-          </div>
+          {displayHours && <HoursDisplay hours={this.props.store.hours}/>}
 
           <div className="row">
             <div className="col-lg-4 col-md-6 col-sm-6 col-xs-6">
               Distance
             </div>
             <div className="col-lg-8 col-md-6 col-sm-6 col-xs-6">
-              {this.props.store.distance}kms
+              {round(this.props.store.distance, 1)}kms ({this.props.store.latitude}, {this.props.store.longitude})
             </div>
           </div>
 

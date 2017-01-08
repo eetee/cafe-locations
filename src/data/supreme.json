@@ -1,0 +1,3962 @@
+[
+	{
+		"name": "2 Stag Cafe",
+		"address": "209 Stafford Street, TIMARU 7910",
+		"type": "Wholesale",
+		"longitude": 171.25333,
+		"latitude": -44.395885,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Alley Katz",
+		"address": "358 Hibiscus Coast Highway, AUCKLAND",
+		"type": "Wholesale",
+		"longitude": 174.695528,
+		"latitude": -36.58578,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Ash's Kitchen",
+		"address": "180 Molesworth Street",
+		"type": "Wholesale",
+		"longitude": 174.778143,
+		"latitude": -41.273453,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Baker Gramercy",
+		"address": "470 Adelaide Road, Berhamore",
+		"type": "Wholesale",
+		"longitude": 174.7751,
+		"latitude": -41.3204,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Bakery 16",
+		"address": "16 Hurstmere Road, Takapuna, Auckland 0622",
+		"type": "Wholesale",
+		"longitude": 174.772435,
+		"latitude": -36.788509,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Baobab Cafe",
+		"address": "152 Riddiford Street, Newtown, WELLINGTON 6021",
+		"type": "Wholesale",
+		"longitude": 174.779436,
+		"latitude": -41.313067,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Barretta Espresso",
+		"address": "7/59 Pitt Street, Beresford Square, AUCKLAND",
+		"type": "Wholesale",
+		"longitude": 174.758117,
+		"latitude": -36.856827,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Bauer",
+		"address": "90 Wellesley St West",
+		"type": "Wholesale",
+		"longitude": 174.758714,
+		"latitude": -36.849453,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Bean Scene Christchurch",
+		"address": "359 Lincoln Road, Addington, Christchurch 8024",
+		"type": "Wholesale",
+		"longitude": 172.614386,
+		"latitude": -43.541554,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Big Beat Cafe",
+		"address": "700 Dominion Road, Balmoral, AUCKLAND 1041",
+		"type": "Wholesale",
+		"longitude": 174.73678,
+		"latitude": -36.907618,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Big Sur",
+		"address": "432 Richmond Road, Grey Lynn, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.730889,
+		"latitude": -36.858597,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Black and Gold",
+		"address": "33A Triton Drive, Rosedale, Auckland 0632",
+		"type": "Wholesale",
+		"longitude": 174.725262,
+		"latitude": -36.743159,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Blind Basket",
+		"address": "38 Barrys Point Road, Takapuna, Auckland 0622",
+		"type": "Wholesale",
+		"longitude": 174.765578,
+		"latitude": -36.793587,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Blue Rose Room",
+		"address": "414 Sandringham Road, Sandringham",
+		"type": "Wholesale",
+		"longitude": 174.738111,
+		"latitude": -36.886707,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Bluebells Cakery",
+		"address": "161A Hillsborough Road, Hillsborough, Auckland 1042",
+		"type": "Wholesale",
+		"longitude": 174.757801,
+		"latitude": -36.919447,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Bluebells Cakery - Newton",
+		"address": "Deliver to 67b France St entrance, 21a Karaka St, Eden Terrace, Auckland 1010",
+		"type": "Wholesale",
+		"longitude": 174.757533,
+		"latitude": -36.861952,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Bluebells Cakery - Takapuna",
+		"address": "Unit 5, 40 Hurstmere Road, Takapuna, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.772308,
+		"latitude": -36.787656,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Bohemein Fresh Chocolates",
+		"address": "109 Featherston Street, WELLINGTON 6011",
+		"type": "Wholesale",
+		"longitude": 174.777863,
+		"latitude": -41.282135,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Bookmark Cafe",
+		"address": "35 Manchester Square, (Paper Plus), FEILDING 4702",
+		"type": "Wholesale",
+		"longitude": 175.566356,
+		"latitude": -40.219073,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Boulevard Cafe",
+		"address": "62 Worcester Street, Christchurch Central, Christchurch 8013",
+		"type": "Wholesale",
+		"longitude": 172.631893,
+		"latitude": -43.531244,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Brown Sugar Cafe",
+		"address": "1 Huia Street, TAIHAPE 4720",
+		"type": "Wholesale",
+		"longitude": 175.798365,
+		"latitude": -39.676716,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Bucklands 2015",
+		"address": "83B Hattaway Avenue, Cnr Wharf & Hattaway, Bucklands Beach",
+		"type": "Wholesale",
+		"longitude": 174.906172,
+		"latitude": -36.868936,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Café Blume",
+		"address": "(Rear entrance) 14 Main St, Elderslea, Upper Hutt 5018",
+		"type": "Wholesale",
+		"longitude": 175.066416,
+		"latitude": -41.124872,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Cafe Breton",
+		"address": "20 Brandon Street, Wellngton 6011",
+		"type": "Wholesale",
+		"longitude": 174.776704,
+		"latitude": -41.2833,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Cafe Delucas",
+		"address": "6-8 Rust Avenue, WHANGAREI",
+		"type": "Wholesale",
+		"longitude": 174.318065,
+		"latitude": -35.723649,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Cafe Flows",
+		"address": "40 Mercer St, CBD, Wellington",
+		"type": "Wholesale",
+		"longitude": 174.775541,
+		"latitude": -41.288136,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Evoque",
+		"address": "Shop 3101, Remarkables Park, Frankton, Queenstown",
+		"type": "Wholesale",
+		"longitude": 168.738626,
+		"latitude": -45.027466,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Cafe Mirabelle",
+		"address": "31 High St Nth, CARTERTON",
+		"type": "Wholesale",
+		"longitude": 175.527704,
+		"latitude": -41.02447,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Cafe Mondo at Hastings New World",
+		"address": "400 Heretaunga Street East, Hastings",
+		"type": "Wholesale",
+		"longitude": 176.846959,
+		"latitude": -39.644719,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Cafe Neo",
+		"address": "132 Willis Street, Wellington 6011",
+		"type": "Wholesale",
+		"longitude": 174.774343,
+		"latitude": -41.289457,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Cafe Terra Viva",
+		"address": "196 Roydvale Ave, Burnside, CHRISTCHURCH",
+		"type": "Wholesale",
+		"longitude": 172.565378,
+		"latitude": -43.492321,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Cafe Villa",
+		"address": "61 Ottawa Road, Ngaio, Wellington 6035",
+		"type": "Wholesale",
+		"longitude": 174.774312,
+		"latitude": -41.248025,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Caffiend",
+		"address": "233 Jackson Street, Petone",
+		"type": "Wholesale",
+		"longitude": 174.880878,
+		"latitude": -41.225862,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Cahoots Cafe",
+		"address": "97 Main St, GREYTOWN",
+		"type": "Wholesale",
+		"longitude": 175.460747,
+		"latitude": -41.080379,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Cali - All Day Eatery",
+		"address": "23-27 Nuffield St, Newmarket, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.777723,
+		"latitude": -36.871408,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Castle Rock 2015",
+		"address": "21 Mary Muller Drive, Heathcote Valley, CHRISTCHURCH 8022",
+		"type": "Wholesale",
+		"longitude": 172.690808,
+		"latitude": -43.567918,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Charlie Boys Coffee Bar",
+		"address": "167 Great North Road, Grey Lynn, AUCKLAND 1021",
+		"type": "Wholesale",
+		"longitude": 174.748275,
+		"latitude": -36.863099,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Chocolate Fish Kaimoana",
+		"address": "100 Shelly Bay Road, Shelly Bay, WELLINGTON ",
+		"type": "Wholesale",
+		"longitude": 174.816766,
+		"latitude": -41.303522,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Chocolate Frog",
+		"address": "Palmers Garden World, Miramar, WELLINGTON 6022",
+		"type": "Wholesale",
+		"longitude": 174.817566,
+		"latitude": -41.316882,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Coco Coffee Bar",
+		"address": "661 Pollen St, Thames",
+		"type": "Wholesale",
+		"longitude": 175.540893,
+		"latitude": -37.136535,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Coffee At Ians",
+		"address": "Main Road, PAEKAKARIKI",
+		"type": "Wholesale",
+		"longitude": 174.934645,
+		"latitude": -41.048991,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Coffee Plus 2016",
+		"address": "11 Horomatangi St, Taupo",
+		"type": "Wholesale",
+		"longitude": 176.070273,
+		"latitude": -38.686756,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Coghill House Cafe",
+		"address": "10 Coghill Street, Whitianga",
+		"type": "Wholesale",
+		"longitude": 175.703855,
+		"latitude": -36.835364,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Corner Burger Mt Eden",
+		"address": "395 Mt Eden Road, Mt Eden, Auckland 1024",
+		"type": "Wholesale",
+		"longitude": 174.761761,
+		"latitude": -36.880785,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Crave Cafe",
+		"address": "25 McDonald Street, Sandringham, Auckland 1025",
+		"type": "Wholesale",
+		"longitude": 174.73677,
+		"latitude": -36.875072,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Crazee Cow Cafe",
+		"address": "314 Thames Street, MORRINSVILLE 3300",
+		"type": "Wholesale",
+		"longitude": 175.530397,
+		"latitude": -37.657163,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Creel Tackle House & Cafe",
+		"address": "189 Taupahi Road, Turangi 3334",
+		"type": "Wholesale",
+		"longitude": 175.813257,
+		"latitude": -38.993408,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Crumb",
+		"address": "83 Crummer Rd, Grey Lynn, Auckland 1021",
+		"type": "Wholesale",
+		"longitude": 174.744407,
+		"latitude": -36.86251,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Cuckoo Cocktail Emporium",
+		"address": "57 Customhouse Quay, (next to One Red Dog), Wellington ",
+		"type": "Wholesale",
+		"longitude": 174.776236,
+		"latitude": -41.28646,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Dangerous Kitchen",
+		"address": "46A Commercial Street, Takaka 7110",
+		"type": "Wholesale",
+		"longitude": 172.806682,
+		"latitude": -40.858926,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Demi - Urgos",
+		"address": "865 Victoria Street, HAMILTON 3204",
+		"type": "Wholesale",
+		"longitude": 175.276917,
+		"latitude": -37.780899,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Dispensary Albany",
+		"address": "84 Albany Street, North Dunedin, Dunedin 9016",
+		"type": "Wholesale",
+		"longitude": 170.5128,
+		"latitude": -45.867491,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Dispense Espresso",
+		"address": "Ferrymead, Christchurch, New Zealand",
+		"type": "Wholesale",
+		"longitude": 172.702797,
+		"latitude": -43.56725,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Dragonfly",
+		"address": "Shop 9, Rolleston Shopping Centre, Rolleston, CHRISTCHURCH",
+		"type": "Wholesale",
+		"longitude": 172.636225,
+		"latitude": -43.532054,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Elements Cafe",
+		"address": "144 Onepu Road, (Cnr Onepu Rd & Wha St), Lyall Bay, Wellington 6022",
+		"type": "Wholesale",
+		"longitude": 174.7935,
+		"latitude": -41.32575,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Ellis Cakes Limited",
+		"address": "PO Box 1249, Wellington",
+		"type": "Wholesale",
+		"longitude": 174.776236,
+		"latitude": -41.28646,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Emperor's New Clothes",
+		"address": "95B Dyers Pass Road, Cashmere, Christchurch",
+		"type": "Wholesale",
+		"longitude": 172.630922,
+		"latitude": -43.576605,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Entice Cafe & Catering",
+		"address": "11 Bruce Street, Cnr Bruce & Dixon Sts, MASTERTON 5810",
+		"type": "Wholesale",
+		"longitude": 175.658695,
+		"latitude": -40.95308,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Espresso Garden Cafe - Wanganui",
+		"address": "Mitre 10 Mega, 200 Taupo Quay, WANGANUI",
+		"type": "Wholesale",
+		"longitude": 175.045323,
+		"latitude": -39.941409,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Espresso Room",
+		"address": "9D Factory Road, Waimauku 0812",
+		"type": "Wholesale",
+		"longitude": 174.495022,
+		"latitude": -36.766572,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Everyday Gourmet 2016",
+		"address": "466 George Street, Dunedin North, Dunedin",
+		"type": "Wholesale",
+		"longitude": 170.507889,
+		"latitude": -45.866905,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Farro Fresh - Constellation Drive",
+		"address": "70 Parkway Drive, Mairangi Bay, North Shore City, AUCKLAND 0632",
+		"type": "Wholesale",
+		"longitude": 174.729193,
+		"latitude": -36.750422,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Farro Fresh - Epsom",
+		"address": "446 Manukau Road, Epsom, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.774408,
+		"latitude": -36.893602,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Farro Fresh - Grey Lynn",
+		"address": "34 Westmoreland Street, Grey Lynn, Auckland 1021",
+		"type": "Wholesale",
+		"longitude": 174.73292,
+		"latitude": -36.855597,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Farro Fresh - Lunn Avenue",
+		"address": "80 Lunn Ave, Mt Wellington, AUCKLAND",
+		"type": "Wholesale",
+		"longitude": 174.833575,
+		"latitude": -36.890844,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Federal Delicatessen",
+		"address": "CONVENTIONS LOADING DOCK, 88 Federal Street, AUCKLAND 1010, New Zealand",
+		"type": "Wholesale",
+		"longitude": 174.762676,
+		"latitude": -36.849028,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Figaro’s",
+		"address": "8 Scott St, Blenheim",
+		"type": "Wholesale",
+		"longitude": 173.956734,
+		"latitude": -41.514609,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Fika With Me",
+		"address": "5 Birkenhead Ave, Northcote, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.726208,
+		"latitude": -36.81202,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Five & Dime",
+		"address": "245 Cuba Street, Te Aro, Wellington",
+		"type": "Wholesale",
+		"longitude": 174.774433,
+		"latitude": -41.295855,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Floriditas",
+		"address": "161-163 Cuba Street, WELLINGTON 6011",
+		"type": "Wholesale",
+		"longitude": 174.775484,
+		"latitude": -41.293859,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Floyd's 2016",
+		"address": "130a The Parade , Island Bay",
+		"type": "Wholesale",
+		"longitude": 174.773169,
+		"latitude": -41.334056,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Fluid Espresso",
+		"address": "138 UNION STREET EAST, DUNEDIN 9016",
+		"type": "Wholesale",
+		"longitude": 170.517757,
+		"latitude": -45.866402,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Foxtrot Parlour",
+		"address": "2 Richmond Road, Grey Lynn, Auckland 1021",
+		"type": "Wholesale",
+		"longitude": 174.746463,
+		"latitude": -36.856799,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Fred's Espresso & Soda Bar",
+		"address": "181 Ponsonby Rd,, Ponsonby (cnr Franklin), Auckland",
+		"type": "Wholesale",
+		"longitude": 174.745477,
+		"latitude": -36.853479,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Fusee Rouge - 2013",
+		"address": "64b The Mall, CROMWELL 9310",
+		"type": "Wholesale",
+		"longitude": 169.198166,
+		"latitude": -45.03687,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Garth Eddy",
+		"address": "7 Ngauranga Gorge Road, Ngauranga, Wellington 6035",
+		"type": "Wholesale",
+		"longitude": 174.814317,
+		"latitude": -41.242954,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Gas Monkey",
+		"address": "Shop 1, The Palms Mall, 18 Marshlands Road, Christchurch",
+		"type": "Wholesale",
+		"longitude": 172.636225,
+		"latitude": -43.532054,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Gipps St Deli",
+		"address": "4 Gipps Street, Karori, WELLINGTON 6012",
+		"type": "Wholesale",
+		"longitude": 174.746613,
+		"latitude": -41.287337,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Gipsy Kitchen",
+		"address": "4 Glamis Avenue, Strathmore, WELLINGTON 6022",
+		"type": "Wholesale",
+		"longitude": 174.821355,
+		"latitude": -41.324742,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Good Day",
+		"address": "3/78 Coates Ave, Orakei, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.81492,
+		"latitude": -36.85617,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Grey St Kitchen",
+		"address": "355 Grey Street, Hamilton East, HAMILTON 3216",
+		"type": "Wholesale",
+		"longitude": 175.29323,
+		"latitude": -37.793572,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Ground Floor",
+		"address": "47 Riccarton Road, Christchurch",
+		"type": "Wholesale",
+		"longitude": 172.607392,
+		"latitude": -43.529371,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Hahei Beach Cafe",
+		"address": "1 Grange Road, Hahei, RD 1, Whitianga 3591",
+		"type": "Wholesale",
+		"longitude": 175.804855,
+		"latitude": -36.83799,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Harvest Blue Cafe & Bistro",
+		"address": "198 Molesworth Drive, Mangawhai Heads, Mangawhai 0505",
+		"type": "Wholesale",
+		"longitude": 174.58758,
+		"latitude": -36.101375,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Hello Friends and Allies",
+		"address": "93 Great South Road, Epsom, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.785291,
+		"latitude": -36.883245,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Hummingbird - 2013",
+		"address": "22 Courtenay Place, Cnr Courtenay Pl & Blair St, WELLINGTON 6011",
+		"type": "Wholesale",
+		"longitude": 174.783251,
+		"latitude": -41.293197,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "IMO Group ",
+		"address": "30 Kenwyn Street, Parnell, Auckland 1052",
+		"type": "Wholesale",
+		"longitude": 174.783475,
+		"latitude": -36.849887,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Jack + Jill",
+		"address": "65 Main St, Greytown 5712",
+		"type": "Wholesale",
+		"longitude": 175.462306,
+		"latitude": -41.078945,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Jo's",
+		"address": "28 Cleveland Street, Brooklyn 6021",
+		"type": "Wholesale",
+		"longitude": 174.76514,
+		"latitude": -41.304866,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Johnny Feedback",
+		"address": "61 Pitt Street, Auckland Central, Auckland 1010",
+		"type": "Wholesale",
+		"longitude": 174.758996,
+		"latitude": -36.857335,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Kai Whakapai",
+		"address": "Cnr Ardmore & Helwick Streets, WANAKA 9305",
+		"type": "Wholesale",
+		"longitude": 169.134637,
+		"latitude": -44.694893,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Kin & Co.",
+		"address": "1151 South Road, Oakura, New Plymouth",
+		"type": "Wholesale",
+		"longitude": 173.956696,
+		"latitude": -39.117097,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Kotare",
+		"address": "131 Middle Renwick Road, Springlands, Blenheim 7201",
+		"type": "Wholesale",
+		"longitude": 173.935202,
+		"latitude": -41.509758,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Le Marche Cafe",
+		"address": "Woolstore Level 1, 262 Thorndon Quay, WELLINGTON ",
+		"type": "Wholesale",
+		"longitude": 174.781287,
+		"latitude": -41.268553,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Legato Espresso Cafe",
+		"address": "Axon House, Cnr Jervois Quay & Willeston Street, wellington",
+		"type": "Wholesale",
+		"longitude": 174.777066,
+		"latitude": -41.286727,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Licorice (2015)",
+		"address": "57 State Highway 1, Motuoapa, RD2, TURANGI 3382",
+		"type": "Wholesale",
+		"longitude": 175.808748,
+		"latitude": -38.989871,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Light House Cuba",
+		"address": "29 Wigan Street, Wellington",
+		"type": "Wholesale",
+		"longitude": 174.775279,
+		"latitude": -41.296139,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Light House Pauatahanui",
+		"address": "3 Paekakariki Hill Road, Pauatahanui, Porirua 5381",
+		"type": "Wholesale",
+		"longitude": 174.916589,
+		"latitude": -41.106007,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Light House Petone",
+		"address": "52 Beach Street, Petone, LOWER HUTT 5012",
+		"type": "Wholesale",
+		"longitude": 174.879564,
+		"latitude": -41.226068,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Little and Friday Limited - Belmont",
+		"address": "43c Eversleigh Road, Takapuna, AUCKLAND 0622",
+		"type": "Wholesale",
+		"longitude": 174.783477,
+		"latitude": -36.803817,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Little and Friday Limited - Douglas St",
+		"address": "42 Douglas Street, Ponsonby, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.742407,
+		"latitude": -36.855861,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Little and Friday Limited - Newmarket",
+		"address": "12 Melrose Street, Newmarket, Auckland 1023",
+		"type": "Wholesale",
+		"longitude": 174.774113,
+		"latitude": -36.868274,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Little and Friday Limited - Tuckshop",
+		"address": "16 Durham Lane, CBD, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.764427,
+		"latitude": -36.847463,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Little Long",
+		"address": "43 Spring Street, Tauranga",
+		"type": "Wholesale",
+		"longitude": 176.168631,
+		"latitude": -37.684216,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Little Vintage Espresso",
+		"address": "20 Markham Street, Amberley, Amberley 7410",
+		"type": "Wholesale",
+		"longitude": 172.726927,
+		"latitude": -43.153371,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Loretta",
+		"address": "181 Cuba Street, (deliver to Swan Lane entrance code is C3578X)), Wellington 6011",
+		"type": "Wholesale",
+		"longitude": 174.776244,
+		"latitude": -41.286426,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Luca",
+		"address": "90 Maunganui Road, Mount Maunganui, Tauranga 3116",
+		"type": "Wholesale",
+		"longitude": 176.182408,
+		"latitude": -37.636337,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Machete Coffee",
+		"address": "9 Boulcott Street, Te Aro, Wellington",
+		"type": "Wholesale",
+		"longitude": 174.774172,
+		"latitude": -41.289237,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Madeleines (2014)",
+		"address": "311 Heretaunga Street West, Hastings 4122",
+		"type": "Wholesale",
+		"longitude": 176.841173,
+		"latitude": -39.639687,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Mapua Village Bakery",
+		"address": "66 Aranui Road, Mapua",
+		"type": "Wholesale",
+		"longitude": 173.095649,
+		"latitude": -41.253057,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Marbecks Cafe - Palmerston Nth 2013 ",
+		"address": "Shop 1 The Plaza, Church Street, PALMERSTON NORTH 4410",
+		"type": "Wholesale",
+		"longitude": 175.616804,
+		"latitude": -40.355113,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Martha’s Pantry",
+		"address": "276 Cuba Street, (rear entrance), WELLINGTON",
+		"type": "Wholesale",
+		"longitude": 174.776236,
+		"latitude": -41.28646,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Me & You",
+		"address": "48 First Ave, Tauranga",
+		"type": "Wholesale",
+		"longitude": 176.168131,
+		"latitude": -37.688592,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Meola Kitchen",
+		"address": "184 Garnet Road, Westmere",
+		"type": "Wholesale",
+		"longitude": 174.71773,
+		"latitude": -36.85383,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": [["0700", "1630"]],
+			"mon": [["0700", "1630"]],
+			"tue": [["0700", "1630"]],
+			"wed": [["0700", "1630"]],
+			"thu": [["0700", "1630"]],
+			"fri": [["0700", "1630"]],
+			"sat": [["0700", "1630"]]
+		}
+	},
+	{
+		"name": "Mihi Cafe & Food Store",
+		"address": "4089 , State Highway 5 , RD2, REPOROA 3083",
+		"type": "Wholesale",
+		"longitude": 176.340691,
+		"latitude": -38.436019,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Milk & Honey",
+		"address": "Level 1, Rankin-Brown Building, Victoria University, Kelburn Parade (turn into gate 7), WELLINGTON 6012",
+		"type": "Wholesale",
+		"longitude": 174.73678,
+		"latitude": -41.286147,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Mister D Dining",
+		"address": "47 Tennyson St, Napier 4110",
+		"type": "Wholesale",
+		"longitude": 176.917317,
+		"latitude": -39.489471,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Mondays",
+		"address": "503B New North Road, Kingsland",
+		"type": "Wholesale",
+		"longitude": 174.7437,
+		"latitude": -36.872163,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Moore Wilson Masterton",
+		"address": "Dixon Street, Attn: Fresh Foods, MASTERTON",
+		"type": "Wholesale",
+		"longitude": 175.65735,
+		"latitude": -40.951112,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Moore Wilson Porirua",
+		"address": "65-69 Kenepuru Drive, Attn : DELI STAFF, PORIRUA",
+		"type": "Wholesale",
+		"longitude": 174.840601,
+		"latitude": -41.1339,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Moore Wilson Wellington",
+		"address": "Cnr Tory & College Sts, WELLINGTON",
+		"type": "Wholesale",
+		"longitude": 174.779765,
+		"latitude": -41.295889,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Mottletop Espresso",
+		"address": "Shop 1, 293 - 297 Great South Road, PAPAKURA 2110",
+		"type": "Wholesale",
+		"longitude": 174.943801,
+		"latitude": -37.065267,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Mr Milton's Canteen",
+		"address": "127 Alexandra Street, HAMILTON 3204",
+		"type": "Wholesale",
+		"longitude": 175.282027,
+		"latitude": -37.788654,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Muirs Bookshop and Cafe",
+		"address": "62 Gladstone Road, gisborne 4010",
+		"type": "Wholesale",
+		"longitude": 178.026431,
+		"latitude": -38.667037,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Nectar Espresso Bar & Cafe",
+		"address": "286 Princes St, DUNEDIN",
+		"type": "Wholesale",
+		"longitude": 170.50096,
+		"latitude": -45.878363,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Nga Taonga Sound & Vision (The Film Archive)",
+		"address": "84 Taranaki Street, Wellington",
+		"type": "Wholesale",
+		"longitude": 174.778,
+		"latitude": -41.293555,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Nikau Gallery Cafe",
+		"address": "City Art Gallery, Civic Square, WELLINGTON",
+		"type": "Wholesale",
+		"longitude": 174.776513,
+		"latitude": -41.288346,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "No. 6",
+		"address": "Shop 2/6 Hurstmere Road, Takapuna",
+		"type": "Wholesale",
+		"longitude": 174.772231,
+		"latitude": -36.788704,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Nourish Cafe",
+		"address": "4 Te Puna Road, RD 4, TAURANGA 3174",
+		"type": "Wholesale",
+		"longitude": 176.073269,
+		"latitude": -37.695358,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Olaf’s Artisan Bakery & Cafe",
+		"address": "1 Stokes Road, Mount Eden, AUCKLAND 1024",
+		"type": "Wholesale",
+		"longitude": 174.762567,
+		"latitude": -36.881757,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Olive",
+		"address": "170 Cuba St, Wellington",
+		"type": "Wholesale",
+		"longitude": 174.774926,
+		"latitude": -41.294371,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Onehunga Cafe",
+		"address": "259 Onehunga Mall, Onehunga",
+		"type": "Wholesale",
+		"longitude": 174.785298,
+		"latitude": -36.920851,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Orphans Kitchen",
+		"address": "118 Ponsonby Road, Grey Lynn, Auckland 1011",
+		"type": "Wholesale",
+		"longitude": 174.74764,
+		"latitude": -36.857281,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Ostro Brasserie & Bar",
+		"address": "Level 2 Seafarers Building, 52 Tyler Street, Auckland 1010",
+		"type": "Wholesale",
+		"longitude": 174.769016,
+		"latitude": -36.844205,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Paddock",
+		"address": "46A Victoria Street, Cambridge 3434",
+		"type": "Wholesale",
+		"longitude": 175.47052,
+		"latitude": -37.895142,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Pandoro - Allen Street",
+		"address": "Cnr Wakefield & Allen Sts, WELLINGTON",
+		"type": "Wholesale",
+		"longitude": 174.782745,
+		"latitude": -41.292454,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Pandoro - Willis St",
+		"address": "Corner of Willis St and Bond St, CBD, WELLINGTON 6011",
+		"type": "Wholesale",
+		"longitude": 174.77503,
+		"latitude": -41.28859,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Pandoro - Woodward St",
+		"address": "Woodward Street, WELLINGTON",
+		"type": "Wholesale",
+		"longitude": 174.775433,
+		"latitude": -41.282042,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Patio Rose",
+		"address": "528 Cambridge Road, Tauriko, Tauranga",
+		"type": "Wholesale",
+		"longitude": 176.101628,
+		"latitude": -37.732544,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Petit Bocal",
+		"address": "177 Sandringham Road, Sandringham, AUCKLAND 1025",
+		"type": "Wholesale",
+		"longitude": 174.740605,
+		"latitude": -36.877894,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Piccolo",
+		"address": "41 Ruapehu St, TAUPO",
+		"type": "Wholesale",
+		"longitude": 176.072041,
+		"latitude": -38.688608,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Piccolo Morso",
+		"address": "573a Devon Street East, New plymouth 4312",
+		"type": "Wholesale",
+		"longitude": 174.102726,
+		"latitude": -39.049307,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Picnic",
+		"address": "Begonia House, Botanical Gardens, Glenmore St, Thorndon, WELLINGTON 6011",
+		"type": "Wholesale",
+		"longitude": 174.767115,
+		"latitude": -41.280582,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Puff",
+		"address": "18 Cammish Lane, Orewa",
+		"type": "Wholesale",
+		"longitude": 174.689952,
+		"latitude": -36.581552,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Queenies (2015)",
+		"address": "24a Spring Street, Freemans Bay, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.749865,
+		"latitude": -36.849008,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Rain Espresso",
+		"address": "35 Kalvin Street, Invercargil",
+		"type": "Wholesale",
+		"longitude": 168.350796,
+		"latitude": -46.410981,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Ralph's Bar and Eatery",
+		"address": "225B Dominion Road, Mount Eden, Auckland 1024",
+		"type": "Wholesale",
+		"longitude": 174.750914,
+		"latitude": -36.875761,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Ravish - Kiosk",
+		"address": "726 Matakana Road, RD 5, Warkworth 0985",
+		"type": "Wholesale",
+		"longitude": 174.703892,
+		"latitude": -36.37214,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Ravish - Omaha",
+		"address": "726 Matakana Road, RD 5, Warkworth 0985",
+		"type": "Wholesale",
+		"longitude": 174.703892,
+		"latitude": -36.37214,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Red Kitchen",
+		"address": "51 Mahoe Street, Te Awamutu 3800",
+		"type": "Wholesale",
+		"longitude": 175.326215,
+		"latitude": -38.008992,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Relish Cafe",
+		"address": "12 Elizabeth Street, WAIKANAE",
+		"type": "Wholesale",
+		"longitude": 175.066826,
+		"latitude": -40.878245,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Remedy Espresso - Raumati",
+		"address": "21a Raumati Road, 5032",
+		"type": "Wholesale",
+		"longitude": 174.982523,
+		"latitude": -40.91899,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Revel",
+		"address": "146 Karangahape Road, Auckland 1010",
+		"type": "Wholesale",
+		"longitude": 174.760711,
+		"latitude": -36.858107,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "River Cottage Cafe",
+		"address": "3 State Highway, OTAKI 5581",
+		"type": "Wholesale",
+		"longitude": 175.182317,
+		"latitude": -40.739177,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Running Horse 2015",
+		"address": "25a Rutland Street, Auckland ",
+		"type": "Wholesale",
+		"longitude": 174.765429,
+		"latitude": -36.852278,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Rushani's Kitchen",
+		"address": "10b Norwich Quay, Lyttleton, Christchurch, New Zealand",
+		"type": "Wholesale",
+		"longitude": 172.721671,
+		"latitude": -43.603719,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Rutland Arms Inn",
+		"address": "48 - 52 Ridgway Street, Wanganui 4500",
+		"type": "Wholesale",
+		"longitude": 175.053927,
+		"latitude": -39.933695,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Salt",
+		"address": "240 Forbury Rd, DUNEDIN",
+		"type": "Wholesale",
+		"longitude": 170.490073,
+		"latitude": -45.911347,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Saluté",
+		"address": "83 Main Street, GREYTOWN",
+		"type": "Wholesale",
+		"longitude": 175.461464,
+		"latitude": -41.079764,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Seafarers Club",
+		"address": "Level 6 & 7 Seafarers Building, 52 Tyler Street, Auckland 1010",
+		"type": "Wholesale",
+		"longitude": 174.769016,
+		"latitude": -36.844205,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Seven Cafe",
+		"address": "7 Hansons Lane, Upper Riccarton, CHRISTCHURCH 8041",
+		"type": "Wholesale",
+		"longitude": 172.573754,
+		"latitude": -43.531961,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Shawty’s Cafe",
+		"address": "4a Market Place, TWIZEL 7901",
+		"type": "Wholesale",
+		"longitude": 170.0981,
+		"latitude": -44.257454,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Sherwood",
+		"address": "554 Frankton Road, Queenstown",
+		"type": "Wholesale",
+		"longitude": 168.697269,
+		"latitude": -45.023726,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Siglo",
+		"address": "28 Courtenay Place, Wellington 6149",
+		"type": "Wholesale",
+		"longitude": 174.782584,
+		"latitude": -41.293572,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Simply Food at Otago School of Medicine",
+		"address": "Level D, 23a Mein Street, Wgtn Hospital, (3rd Driveway on the Left), Wellington",
+		"type": "Wholesale",
+		"longitude": 174.776236,
+		"latitude": -41.28646,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Sipriana Cafe",
+		"address": "Level 1, 31 - 35 Thorndon Quay, Capital Gateway Centre, Thorndon Quay, Wellington",
+		"type": "Wholesale",
+		"longitude": 174.782441,
+		"latitude": -41.272571,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Six Barrel Soda Co",
+		"address": "Corner Eva & Dixon Street, Te Aro, Wellington 6011",
+		"type": "Wholesale",
+		"longitude": 174.777465,
+		"latitude": -41.292035,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Slow Cuts",
+		"address": "Unit B 26/50 Buckingham Street, Arrowtown, Central Otago",
+		"type": "Wholesale",
+		"longitude": 169.634525,
+		"latitude": -44.828004,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Spongedrop",
+		"address": "10 Salisbury ave, Mount Maunganui, ",
+		"type": "Wholesale",
+		"longitude": 176.183093,
+		"latitude": -37.640247,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Spruce Goose",
+		"address": "Corner Moa Point Road and Cochrane Street, Lyall Bay, Wellington",
+		"type": "Wholesale",
+		"longitude": 174.803634,
+		"latitude": -41.328409,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Stanley's Café",
+		"address": "58 East Coast Road, Milford, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.758327,
+		"latitude": -36.768624,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Sugar Juice Cafe",
+		"address": "42-44 Tasman Street, Opunake 4616",
+		"type": "Wholesale",
+		"longitude": 173.860431,
+		"latitude": -39.454724,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Swanson Cafe",
+		"address": "12 Swanson Street, Auckland CBD",
+		"type": "Wholesale",
+		"longitude": 174.764663,
+		"latitude": -36.845995,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Sweet Bakery & Cakery",
+		"address": "3/149 Karori Road, Karori, Wellington 6012",
+		"type": "Wholesale",
+		"longitude": 174.74583,
+		"latitude": -41.282474,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Sweet Mothers Kitchen",
+		"address": "5 Courtenay Place, Wellington 6011",
+		"type": "Wholesale",
+		"longitude": 174.783235,
+		"latitude": -41.294266,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Tees St",
+		"address": "3 Tees St, South Hill, Oamaru",
+		"type": "Wholesale",
+		"longitude": 170.968775,
+		"latitude": -45.102403,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Bakery",
+		"address": "52 Jubilee Drive, Pauanui Beach",
+		"type": "Wholesale",
+		"longitude": 175.860963,
+		"latitude": -37.023906,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Bakery - Tairua",
+		"address": "242 Main Road, Tairua, Coromandel",
+		"type": "Wholesale",
+		"longitude": 175.849368,
+		"latitude": -37.000449,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Beach Cafe",
+		"address": "16a Beach Road, North New Brighton, Christchurch",
+		"type": "Wholesale",
+		"longitude": 172.722108,
+		"latitude": -43.486096,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Beach House",
+		"address": "39 Beach Road, KAIKOURA 7300",
+		"type": "Wholesale",
+		"longitude": 173.679038,
+		"latitude": -42.396066,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Bean",
+		"address": "44 Broadway, Newmarket, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.779348,
+		"latitude": -36.864983,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Caffeine Bar",
+		"address": "7/1086 Papamoa Beach Road, Papamoa Beach, Papamoa 3118",
+		"type": "Wholesale",
+		"longitude": 176.332198,
+		"latitude": -37.713888,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Chop Shop",
+		"address": "7 Arrow Lane, Arrowtown, 9302",
+		"type": "Wholesale",
+		"longitude": 168.832287,
+		"latitude": -44.938858,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Coffee Box - High Street",
+		"address": "434 High St, Hutt Central, Lower Hutt 5010",
+		"type": "Wholesale",
+		"longitude": 174.910614,
+		"latitude": -41.205962,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Coffee Box - Moera",
+		"address": "Randwick Road, Moera, Lower Hutt",
+		"type": "Wholesale",
+		"longitude": 174.905186,
+		"latitude": -41.228405,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Cove",
+		"address": "910 Cove Road RD 2, Waipu, 0583",
+		"type": "Wholesale",
+		"longitude": 174.506916,
+		"latitude": -36.029878,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Cure",
+		"address": "108 Tupaka St, Westown 4310",
+		"type": "Wholesale",
+		"longitude": 174.058468,
+		"latitude": -39.073979,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Exchange (XCHCH)",
+		"address": "376 Wilsons road, Waltham, Christchurch",
+		"type": "Wholesale",
+		"longitude": 172.654854,
+		"latitude": -43.544888,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Front Room",
+		"address": "42 Tutere Street, waikanae beach 5036",
+		"type": "Wholesale",
+		"longitude": 175.023652,
+		"latitude": -40.86206,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Larder",
+		"address": "133 Darlington Road, Miramar, WELLINGTON 6022",
+		"type": "Wholesale",
+		"longitude": 174.82579,
+		"latitude": -41.306696,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Long Table",
+		"address": "603 State Highway 2, Katikati",
+		"type": "Wholesale",
+		"longitude": 175.922276,
+		"latitude": -37.505847,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Porch 2013",
+		"address": "23 Wilson Road, Waihi Beach 3611",
+		"type": "Wholesale",
+		"longitude": 175.943216,
+		"latitude": -37.41197,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Powderhorn",
+		"address": "194 Mangawhero Tce, ohakune 4625",
+		"type": "Wholesale",
+		"longitude": 175.412486,
+		"latitude": -39.401914,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Quay",
+		"address": "31 Quayside, Town Basin, Whangarei 0110",
+		"type": "Wholesale",
+		"longitude": 174.323699,
+		"latitude": -35.725107,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Raumati Social Club",
+		"address": "34 Poplar Avenue, Raumati South, Paraparaumu34 Poplar Avenue, Raumati South, 5032",
+		"type": "Wholesale",
+		"longitude": 174.983968,
+		"latitude": -40.937914,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Raw Kitchen",
+		"address": "267 Ponsonby Road, Ponsonby Auckland",
+		"type": "Wholesale",
+		"longitude": 174.744185,
+		"latitude": -36.848855,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Red Beret",
+		"address": "145 High Street, Motueka 7120",
+		"type": "Wholesale",
+		"longitude": 173.011381,
+		"latitude": -41.110825,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Rusty Tractor",
+		"address": "582 Kerikeri Road, RD 3, Kerikeri 0293",
+		"type": "Wholesale",
+		"longitude": 173.933009,
+		"latitude": -35.252288,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Salty Pidgin",
+		"address": "5 Todman St, Brooklyn, Wellington",
+		"type": "Wholesale",
+		"longitude": 174.763101,
+		"latitude": -41.305483,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Stolen Bagel",
+		"address": "263 Lincoln Road, Addington, Christchurch",
+		"type": "Wholesale",
+		"longitude": 172.610296,
+		"latitude": -43.544291,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Wellington Chocolate Factory",
+		"address": "5 Eva Street, Te Aro, Wellington",
+		"type": "Wholesale",
+		"longitude": 174.777327,
+		"latitude": -41.292575,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "The Workshop Kitchen",
+		"address": "10 Charles St, Mount Eden",
+		"type": "Wholesale",
+		"longitude": 174.751516,
+		"latitude": -36.870825,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Tower Bakers",
+		"address": "54 Waimarie Street, Saint Heliers, AUCKLAND 1071",
+		"type": "Wholesale",
+		"longitude": 174.869052,
+		"latitude": -36.849889,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Trax",
+		"address": "1 Bunny Street, Platform One, Wellington Railway Station, WELLINGTON 6011",
+		"type": "Wholesale",
+		"longitude": 174.780163,
+		"latitude": -41.279313,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Twenty Three",
+		"address": "23 Mt Eden Road, Eden Terrace, AUCKLAND",
+		"type": "Wholesale",
+		"longitude": 174.760896,
+		"latitude": -36.865637,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Tyler St Garage",
+		"address": "116-120 Quay St, Auckland 101",
+		"type": "Wholesale",
+		"longitude": 174.769703,
+		"latitude": -36.844229,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Verve Cafe 2013 ",
+		"address": "Capital On The Quay, 250 Lambton Quay, Wellington 6011",
+		"type": "Wholesale",
+		"longitude": 174.775227,
+		"latitude": -41.283373,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Vines Village Cafe",
+		"address": "109 Rapaura road, Rapaura, Blenheim 7273, New Zealand",
+		"type": "Wholesale",
+		"longitude": 173.832279,
+		"latitude": -41.484611,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Wainui Store",
+		"address": "4 Oneroa Road, Wainui",
+		"type": "Wholesale",
+		"longitude": 178.071642,
+		"latitude": -38.689,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Waiomu Beach Cafe",
+		"address": "Thames Coast Rd, ",
+		"type": "Wholesale",
+		"longitude": 175.502205,
+		"latitude": -36.991723,
+		"position": "GEOMETRIC_CENTER",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Welcome Eatery",
+		"address": "181 Grafton Road, Grafton, Auckland 1010",
+		"type": "Wholesale",
+		"longitude": 174.764021,
+		"latitude": -36.864328,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Were Bros",
+		"address": "480 Richmond Road, Grey Lynn, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.732168,
+		"latitude": -36.859245,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "With Sugar",
+		"address": "134 Stuart St, DUNEDIN 9016",
+		"type": "Wholesale",
+		"longitude": 170.504791,
+		"latitude": -45.87431,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Woodside Cafe",
+		"address": "134a Hinemoa Street, Birkenhead, Auckland",
+		"type": "Wholesale",
+		"longitude": 174.731074,
+		"latitude": -36.81575,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Workman’s",
+		"address": "52 Broadway, Matamata 3400",
+		"type": "Wholesale",
+		"longitude": 175.773037,
+		"latitude": -37.80917,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Zippy Central Cafe",
+		"address": "1152 Pukuatua St, Rotorua, 3010",
+		"type": "Wholesale",
+		"longitude": 176.252116,
+		"latitude": -38.136867,
+		"position": "RANGE_INTERPOLATED",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Customs",
+		"address": "39 Ghuznee Street, Wellington",
+		"type": "Coffee Supreme",
+		"longitude": 174.776181,
+		"latitude": -41.293623,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Coffee Supreme Midland Park",
+		"address": "31 Waring Taylor Street, Wellington",
+		"type": "Coffee Supreme",
+		"longitude": 174.776745,
+		"latitude": -41.282219,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Supreme Supreme",
+		"address": "10 Welles Street, Christchurch",
+		"type": "Coffee Supreme",
+		"longitude": 172.637356,
+		"latitude": -43.537121,
+		"position": "ROOFTOP",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	},
+	{
+		"name": "Supreme Seafarers",
+		"address": "57 Tyler Street, Britomart, Auckland",
+		"type": "Coffee Supreme",
+		"longitude": 174.763332,
+		"latitude": -36.84846,
+		"position": "APPROXIMATE",
+		"distance": 0,
+		"hours": {
+			"sun": null,
+			"mon": null,
+			"tue": null,
+			"wed": null,
+			"thu": null,
+			"fri": null,
+			"sat": null
+		}
+	}
+]
