@@ -37,7 +37,7 @@ class Store extends React.Component {
                         this.props.store.distance,
                         "kms")),
                 React.createElement("div", { className: "row" },
-                    React.createElement("div", { className: "col-xs-12 text-center" },
+                    React.createElement("div", { className: "col-lg-8 col-lg-offset-4 col-xs-12 text-center" },
                         React.createElement("iframe", { width: "600", height: "450", frameBorder: "0", style: iframeStyle, src: mapUrl }))))));
     }
 }

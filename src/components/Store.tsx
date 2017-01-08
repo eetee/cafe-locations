@@ -71,7 +71,7 @@ export class Store extends React.Component <IProps, IState> {
           </div>
 
           <div className="row">
-            <div className="col-xs-12 text-center">
+            <div className="col-lg-8 col-lg-offset-4 col-xs-12 text-center">
               <iframe width="600" height="450" frameBorder="0" style={iframeStyle}
                 src={mapUrl}></iframe>
             </div>
