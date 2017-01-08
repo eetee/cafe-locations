@@ -9,6 +9,9 @@ Hosted on github pages: https://eetee.github.io/supreme-locations/
 - Displays list of cafes ordered by distance
 - Displays cafe's map (using Google Map API) ~ clicking on directions works as well
 
+## Disclaimer
+I have no affiliation to the roaster, they have neither commissioned this nor is there any endorsement.
+
 ## Potential Enhancements
 
 - Use opening times to filter list of cafes
