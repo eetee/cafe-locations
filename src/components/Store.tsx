@@ -32,46 +32,46 @@ export class Store extends React.Component <IProps, IState> {
 
     return (
       <div className="row" style={blockStyle}>
-        <div className="col-lg-12">
+        <div className="col-xs-12">
 
           <div className="row">
-            <div className="col-lg-4">
+            <div className="col-lg-4 col-md-6 col-sm-6 col-xs-6">
               Name:
             </div>
-            <div className="col-lg-8">
+            <div className="col-lg-8 col-md-6 col-sm-6 col-xs-6">
               {this.props.store.name}
             </div>
           </div>
 
           <div className="row">
-            <div className="col-lg-4">
+            <div className="col-lg-4 col-md-6 col-sm-6 col-xs-6">
               Address:
             </div>
-            <div className="col-lg-8">
+            <div className="col-lg-8 col-md-6 col-sm-6 col-xs-6">
               {this.props.store.address}
             </div>
           </div>
 
           <div className="row">
-            <div className="col-lg-4">
+            <div className="col-lg-4 col-md-6 col-sm-6 col-xs-6">
               Co-ordinates:
             </div>
-            <div className="col-lg-8">
+            <div className="col-lg-8 col-md-6 col-sm-6 col-xs-6">
               {this.props.store.latitude}, {this.props.store.longitude}
             </div>
           </div>
 
           <div className="row">
-            <div className="col-lg-4">
+            <div className="col-lg-4 col-md-6 col-sm-6 col-xs-6">
               Distance
             </div>
-            <div className="col-lg-8">
+            <div className="col-lg-8 col-md-6 col-sm-6 col-xs-6">
               {this.props.store.distance}kms
             </div>
           </div>
 
           <div className="row">
-            <div className="col-lg-12 text-center">
+            <div className="col-xs-12 text-center">
               <iframe width="600" height="450" frameBorder="0" style={iframeStyle}
                 src={mapUrl}></iframe>
             </div>
