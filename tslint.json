@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "one-line": {
+      "check-whitespace": false
+    },
+    "quotemark": "single",
+    "no-unused-variable": false
+  }
+}
