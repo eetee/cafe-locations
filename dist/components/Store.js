@@ -13,7 +13,9 @@ class Store extends React.Component {
             'padding': '5px'
         };
         const iframeStyle = {
-            'border': '0'
+            'border': '0',
+            'width': '80%',
+            'height': '70%',
         };
         const displayHours = !!this.props.store.hours.sun;
         let mapUrl = '';
@@ -24,24 +26,19 @@ class Store extends React.Component {
         return (React.createElement("div", { className: "row", style: blockStyle },
             React.createElement("div", { className: "col-xs-12" },
                 React.createElement("div", { className: "row" },
-                    React.createElement("div", { className: "col-lg-4 col-md-6 col-sm-6 col-xs-6" }, "Name:"),
-                    React.createElement("div", { className: "col-lg-8 col-md-6 col-sm-6 col-xs-6" }, this.props.store.name)),
-                React.createElement("div", { className: "row" },
-                    React.createElement("div", { className: "col-lg-4 col-md-6 col-sm-6 col-xs-6" }, "Address:"),
-                    React.createElement("div", { className: "col-lg-8 col-md-6 col-sm-6 col-xs-6" }, this.props.store.address)),
-                displayHours && React.createElement(HoursDisplay_1.HoursDisplay, { hours: this.props.store.hours }),
-                React.createElement("div", { className: "row" },
-                    React.createElement("div", { className: "col-lg-4 col-md-6 col-sm-6 col-xs-6" }, "Distance"),
-                    React.createElement("div", { className: "col-lg-8 col-md-6 col-sm-6 col-xs-6" },
-                        round(this.props.store.distance, 1),
-                        "kms (",
-                        this.props.store.latitude,
-                        ", ",
-                        this.props.store.longitude,
-                        ")")),
-                React.createElement("div", { className: "row" },
-                    React.createElement("div", { className: "col-lg-8 col-lg-offset-4 col-xs-12 text-center" },
-                        React.createElement("iframe", { width: "600", height: "450", frameBorder: "0", style: iframeStyle, src: mapUrl }))))));
+                    React.createElement("div", { className: "col-lg-6 col-md-6 col-sm-12 col-xs-12" },
+                        React.createElement("h4", null, this.props.store.name),
+                        React.createElement("p", null, this.props.store.address),
+                        React.createElement("p", null,
+                            round(this.props.store.distance, 1),
+                            "kms (",
+                            this.props.store.latitude,
+                            ", ",
+                            this.props.store.longitude,
+                            ")"),
+                        displayHours && React.createElement(HoursDisplay_1.HoursDisplay, { hours: this.props.store.hours })),
+                    React.createElement("div", { className: "col-lg-6 col-md-6 col-sm-12 col-xs-12" },
+                        React.createElement("iframe", { frameBorder: "0", style: iframeStyle, src: mapUrl }))))));
     }
 }
 exports.Store = Store;

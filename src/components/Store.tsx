@@ -22,7 +22,9 @@ export class Store extends React.Component <IProps, IState> {
     };
 
     const iframeStyle = {
-      'border': '0'
+      'border': '0',
+      'width': '80%',
+      'height': '70%',
     };
 
     const displayHours = !!this.props.store.hours.sun;
@@ -39,38 +41,15 @@ export class Store extends React.Component <IProps, IState> {
         <div className="col-xs-12">
 
           <div className="row">
-            <div className="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-              Name:
+            <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+              <h4>{this.props.store.name}</h4>
+              <p>{this.props.store.address}</p>
+              <p>{round(this.props.store.distance, 1)}kms ({this.props.store.latitude}, {this.props.store.longitude})</p>
+              {displayHours && <HoursDisplay hours={this.props.store.hours}/>}
             </div>
-            <div className="col-lg-8 col-md-6 col-sm-6 col-xs-6">
-              {this.props.store.name}
-            </div>
-          </div>
-
-          <div className="row">
-            <div className="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-              Address:
-            </div>
-            <div className="col-lg-8 col-md-6 col-sm-6 col-xs-6">
-              {this.props.store.address}
-            </div>
-          </div>
-
-          {displayHours && <HoursDisplay hours={this.props.store.hours}/>}
-
-          <div className="row">
-            <div className="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-              Distance
-            </div>
-            <div className="col-lg-8 col-md-6 col-sm-6 col-xs-6">
-              {round(this.props.store.distance, 1)}kms ({this.props.store.latitude}, {this.props.store.longitude})
-            </div>
-          </div>
-
-          <div className="row">
-            <div className="col-lg-8 col-lg-offset-4 col-xs-12 text-center">
-              <iframe width="600" height="450" frameBorder="0" style={iframeStyle}
-                src={mapUrl}></iframe>
+            <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+              <iframe frameBorder="0" style={iframeStyle}
+              src={mapUrl}></iframe>
             </div>
           </div>
         </div>

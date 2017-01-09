@@ -18,7 +18,7 @@ export class StoreList extends React.Component <IProps, IState> {
     return (
       <div className="container-fluid">
         {
-          this.props.stores.slice(0, 19).map((store, i)=>{
+          this.props.stores.slice(0, 9).map((store, i)=>{
             return <Store store={store} key={i}/>
           })
         }
