@@ -18289,8 +18289,9 @@
 	        };
 	        const displayHours = !!this.props.store.hours.sun;
 	        let mapUrl = '';
+	        const addressString = this.props.store.address.replace(' ', '+');
 	        if (this.props.store.latitude !== 0) {
-	            mapUrl = `https://www.google.com/maps/embed/v1/place?q=${this.props.store.latitude}%2C%20${this.props.store.longitude}&key=AIzaSyBfQiuNkny6qftAKK3ZxRexheF6YPke0v0`;
+	            mapUrl = `https://www.google.com/maps/embed/v1/place?key=AIzaSyBfQiuNkny6qftAKK3ZxRexheF6YPke0v0&q=${addressString}`;
 	        }
 	        return (React.createElement("div", { className: "row", style: blockStyle },
 	            React.createElement("div", { className: "col-xs-12" },
