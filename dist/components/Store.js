@@ -14,8 +14,8 @@ class Store extends React.Component {
         };
         const iframeStyle = {
             'border': '0',
-            'width': '80%',
-            'height': '70%',
+            'width': '100%',
+            'height': '350px',
         };
         const displayHours = !!this.props.store.hours.sun;
         let mapUrl = '';
