@@ -1,7 +1,7 @@
-# supreme-locations
-Hosted on github pages: https://eetee.github.io/supreme-locations/
+# cafe-locations
+Hosted on github pages: https://eetee.github.io/cafe-locations/
 
-## Locator for cafes stocking Supreme coffee
+## Locator for cafes stocking good coffee
 
 - Single page site which uses browser's location to identify current location
 - Uses list of cafes found here: http://www.easymapmaker.com/map/CSLcafelocations
