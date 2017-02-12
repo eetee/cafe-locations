@@ -3,6 +3,11 @@ import {CafeLocation} from '../reducers/app';
 import {HoursDisplay} from './HoursDisplay';
 import * as round from 'lodash/round';
 
+import {Card, CardActions, CardHeader, CardMedia, CardTitle, CardText} from 'material-ui/Card';
+import FlatButton from 'material-ui/FlatButton';
+
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
+
 interface IProps {
   store: CafeLocation
 }
@@ -17,7 +22,6 @@ export class Store extends React.Component <IProps, IState> {
   render(){
     const blockStyle = {
       'margin': '10px 0px',
-      'borderBottom': '1px solid black',
       'padding': '5px'
     };
 
@@ -39,19 +43,20 @@ export class Store extends React.Component <IProps, IState> {
     return (
       <div className="row" style={blockStyle}>
         <div className="col-xs-12">
-
-          <div className="row">
-            <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-              <h4>{this.props.store.name}</h4>
-              <p>{this.props.store.address}</p>
-              <p>{round(this.props.store.distance, 1)}kms ({this.props.store.latitude}, {this.props.store.longitude})</p>
-              {displayHours && <HoursDisplay hours={this.props.store.hours}/>}
-            </div>
-            <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-              <iframe frameBorder="0" style={iframeStyle}
-              src={mapUrl}></iframe>
-            </div>
-          </div>
+          <MuiThemeProvider>
+             <Card>
+              <CardHeader 
+                title={this.props.store.name}
+                subtitle={this.props.store.address + " " + round(this.props.store.distance, 1) + "kms"}></CardHeader>
+              <CardMedia>
+                <iframe frameBorder="0" style={iframeStyle}
+                  src={mapUrl}></iframe>
+              </CardMedia>
+              <CardText>
+                {displayHours && <HoursDisplay hours={this.props.store.hours}/>}
+              </CardText>
+             </Card>
+          </MuiThemeProvider>
         </div>
       </div>
     );

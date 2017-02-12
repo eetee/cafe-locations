@@ -22,11 +22,11 @@ export class Main extends React.Component <IProps, IState> {
           <div className="row">
             <div className="col-lg-8 col-lg-offset-2 col-xs-12 col-sm-12 col-md-12">
               <p>
-                More details here: <a href="https://github.com/eetee/supreme-locations">https://github.com/eetee/supreme-locations</a><br />
+                More details here: <a href="https://github.com/eetee/cafe-locations">https://github.com/eetee/cafe-locations</a><br />
                 <small>Source code, potential enhancements etc.</small>
               </p>
               <p>
-                Disclaimer: I have no affiliation to the roaster, they have neither commissioned this nor is there any endorsement.
+                Disclaimer: I have no affiliation to any roaster, they have neither commissioned this nor is there any endorsement.
               </p>
             </div>
           </div>
