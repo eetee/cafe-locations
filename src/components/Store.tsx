@@ -28,7 +28,7 @@ export class Store extends React.Component <IProps, IState> {
     const iframeStyle = {
       'border': '0',
       'width': '100%',
-      'height': '350px',
+      'height': '80%',
     };
 
     const displayHours = !!this.props.store.hours.sun;
